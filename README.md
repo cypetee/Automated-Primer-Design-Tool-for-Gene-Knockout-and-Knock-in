@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 🔬 Automated Primer Design Tool
 
 This web application enables the automated design of primers for gene knock-out and knock-in in *E. coli*, streamlining molecular cloning workflows for synthetic biology and genome engineering. Built using Python and Streamlit, the tool offers:
