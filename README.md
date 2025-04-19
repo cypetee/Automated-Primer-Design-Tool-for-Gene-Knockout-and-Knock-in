@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🔬 Automated Primer Design Tool
 
 This web application enables the automated design of primers for gene knock-out and knock-in in *E. coli*, streamlining molecular cloning workflows for synthetic biology and genome engineering. Built using Python and Streamlit, the tool offers:
@@ -19,3 +20,7 @@ This web application enables the automated design of primers for gene knock-out 
 
 ### 👨‍🔬 Developed by:
 Onyeka —  PhD Student @ Iowa State University
+=======
+# Automated-Primer-Design-Tool-for-Gene-Knockout-and-Knock-in
+A user-friendly Streamlit web application for designing primers to facilitate gene knock-out and knock-in experiments using overlap extension PCR. The tool integrates GenBank data retrieval, protein mutation validation, and intelligent primer generation with customizable parameters. 
+>>>>>>> 5b5e67f89f03d9c9cde993b2d8fdf9175909dc6f
